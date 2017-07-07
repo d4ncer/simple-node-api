@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-api",
+  "version": "0.0.1",
+  "description": "Simple Node.js API",
+  "main": "index.js",
+  "repository": "git@github.com:d4ncer/simple-node-api.git",
+  "author": "Raghuvir Kasturi <raghuvir.kasturi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
